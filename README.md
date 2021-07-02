@@ -26,7 +26,7 @@
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/zmatheuspro/podcastr.git && cd memories
+$ git clone https://github.com/Tellay/memories.git && cd memories
 ```
 
 **Follow the steps below**
