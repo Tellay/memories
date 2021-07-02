@@ -1,6 +1,6 @@
 ## Memories
 [![Author](https://img.shields.io/badge/author-tellay-7289DA?style=flat-square)](https://github.com/tellay)
-<h4>Memories is a simple website where you can save memories. <br/>It uses ReactJS for the front-end and node.js for the back-end. !</h4>
+<h4>Memories is a simple website where you can save memories. <br/>It uses ReactJS for the front-end and node.js for the back-end.</h4>
 
 ## Tecnologies
 
