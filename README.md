@@ -16,3 +16,31 @@
 - [ReactJS](https://reactjs.org)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [MongoDB](https://www.mongodb.com)
+
+## 💻 Getting started
+
+### Requirements
+
+- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+
+**Clone the project and access the folder**
+
+```bash
+$ git clone https://github.com/zmatheuspro/podcastr.git && cd memories
+```
+
+**Follow the steps below**
+
+```bash
+# Install the dependencies
+$ yarn
+
+# Run the web server
+$ yarn dev
+```
+
+The app will be available for access on your browser at `http://localhost:3000`
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
