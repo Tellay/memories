@@ -32,10 +32,10 @@ $ git clone https://github.com/Tellay/memories.git && cd memories
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
+# Install the dependencies at in the two folders
 $ yarn
 
-# Run the web server
+# Run the web server in client folder
 $ yarn dev
 ```
 
