@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/46NdVfE.png" width="200px" height="200px"></img>
-</div>
-
-
 ## Memories
 [![Author](https://img.shields.io/badge/author-tellay-7289DA?style=flat-square)](https://github.com/tellay)
 <h4>Memories is a simple website where you can save memories. <br/>It uses ReactJS for the front-end and node.js for the back-end.</h4>
